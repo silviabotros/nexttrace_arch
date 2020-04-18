@@ -1,4 +1,4 @@
-sequenceDiagram
+sequenceDiagram 
     participant A as Alice
     participant B as Bill
     participant NT as NextTrace
